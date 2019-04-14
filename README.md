@@ -23,6 +23,8 @@ In this comparison, there are 2 important feature that effected the sorting time
 | 500000                | 1.009             | 2.411                  |
 
 
-
+![Time Comparisson](https://github.com/kayleenp/QuickSortTaskOS/blob/master/time%20comparisson%20qs.JPG)
+    
 
 ## Conclusion 
+From the data, we can conclude that Parallel Quick Sort took more time to sort than a regular (without parallel omp) quick sort. So, in terms of the efficiency of time, regular quick sort is better. 
